@@ -3,4 +3,3 @@
 
 [functions."___netlify-server-handler"]
   timeout = 26
-git add netlify.toml
