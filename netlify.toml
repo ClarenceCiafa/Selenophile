@@ -1,0 +1,5 @@
+
+# Impostazioni per Netlify
+[functions]
+  # Aumenta il timeout per le funzioni server a 25 secondi (il massimo per le funzioni sincrone)
+  timeout = 25
