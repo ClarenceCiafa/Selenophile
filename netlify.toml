@@ -1,5 +1,2 @@
-[functions]
-  timeout = 25
-
 [functions."___netlify-server-handler"]
   timeout = 26
